@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background:white; 
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+
+.logo{
+    text-align: center;
+   }
+#con{
+    text-align: center;
+   }
+#modulo{
+  font-weight: bold;
+  text-shadow: aqua;
+}
+hr{
+  height:10px;
+  border-width:5;
+  color:rgb(30, 133, 218);
+  background-color:rgb(40, 172, 233)
+}
+.username{
+  text-align: right;
+}
